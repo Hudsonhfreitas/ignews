@@ -23,7 +23,8 @@
 
 Chapter three consisted of creating an application to share paid content, where integration with Stripe, FaunaDB and Prismic for content management was carried out and Github authentication.
 
-<img width="600" src=".github/tela1.png" alt="Screenshot" /><img width="600" src=".github/tela2.png" alt="Screenshot" /><img width="600" src=".github/tela3.png" alt="Screenshot" />
+![Captura de tela 2022-01-24 193232](https://user-images.githubusercontent.com/65768361/150876147-84f533de-67c1-46a9-b249-52c4f4beb339.png)
+
 
 ## ✨ Technologies
 
