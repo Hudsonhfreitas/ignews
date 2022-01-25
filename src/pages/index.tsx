@@ -3,7 +3,7 @@ import { GetStaticProps } from "next";
 import { SubscriptButton } from "../components/SubscribeButton";
 
 import styles from "./home.module.scss"
-import { stripe } from "../services/stripes";
+import { stripe } from "../services/stripe";
 
 interface HomeProps {
   product: {
