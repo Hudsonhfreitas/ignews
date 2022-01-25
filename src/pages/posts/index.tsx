@@ -31,7 +31,8 @@ export default function Posts({ posts }: PostsProps) {
                         <strong>{post.title}</strong>
                         <p>{post.excerpt}</p>
                     </a>
-                ))}
+                  ))
+                }
             </div>
         </main>
     </>
@@ -56,8 +57,6 @@ export const getStaticProps: GetStaticProps = async () => {
 
         }
     })
-
-    console.log(JSON.stringify(response, null, 2))
 
     return {
         props: {
